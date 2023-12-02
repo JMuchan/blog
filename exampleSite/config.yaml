@@ -2,19 +2,19 @@ baseurl: https://example.com
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: Coucou's blog
+title: JMuchan's blog 
 
 languages:
     en:
         languageName: English
-        title: Coucou's blog
+        title: JMuchan's blog 
         weight: 1
     zh-cn:
         languageName: 中文
         title: 演示站点
         weight: 2
     ar:
-        languageName: عربي
+        languageName: عربي 
         languagedirection: rtl
         title: موقع تجريبي
         weight: 3
@@ -54,7 +54,7 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: 这是Coucou的博客网站
+        subtitle: 这是JMuchan的博客网站
         avatar:
             enabled: true
             local: true
@@ -103,7 +103,7 @@ params:
             lang:
             pageview:
             emoji:
-                - https://unpkg.com/@waline/emojis@1.0.1/weibo
+                - https://unpkg.com/@waline/emojis@1.0.1/weibo 
             requiredMeta:
                 - name
                 - email
